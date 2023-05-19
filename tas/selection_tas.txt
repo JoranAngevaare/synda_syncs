@@ -1,0 +1,5 @@
+project=CMIP6
+realm=atmos
+variable=tas
+table_id=Amon
+experiment_id=piControl,historical,ssp119,sp126, sp245,ssp370,ssp585
